@@ -3,7 +3,7 @@
 // @version      0.1
 // @author       Sir Cumference
 // @match        https://astronomy.stackexchange.com/*
-// @updateURL    https://github.com/IStoleThePies/Test/blob/test/main.user.js
+// @updateURL    https://github.com/IStoleThePies/Test/raw/test/main.user.js
 // ==/UserScript==
 
 (function() {
