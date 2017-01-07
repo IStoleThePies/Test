@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         Astronomy SE design
 // @version      0.1
-// @description  try to take over the world!
 // @author       Sir Cumference
 // @match        https://astronomy.stackexchange.com/*
 // @updateURL    https://github.com/IStoleThePies/Test/blob/test/main.user.js
