@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Astronomy SE design
-// @version      0.1
+// @version      0.2
 // @author       Sir Cumference
 // @match        https://astronomy.stackexchange.com/*
 // @updateURL    https://github.com/IStoleThePies/Test/raw/test/main.user.js
