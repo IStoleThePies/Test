@@ -4,8 +4,8 @@
 // @author       Sir Cumference
 // @namespace    https://github.com/IStoleThePies/Test
 // @match        https://astronomy.stackexchange.com/*
-// @downloadURL  https://rawgit.com/IStoleThePies/Test/blob/test/main.user.js
-// @updateURL    https://rawgit.com/IStoleThePies/Test/blob/test/main.user.js
+// @downloadURL  https://rawgit.com/IStoleThePies/Test/test/main.user.js
+// @updateURL    https://rawgit.com/IStoleThePies/Test/test/main.user.js
 // ==/UserScript==
 
 (function() {
