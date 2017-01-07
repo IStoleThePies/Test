@@ -4,11 +4,13 @@
 // @author       Sir Cumference
 // @namespace    https://github.com/IStoleThePies/Test
 // @match        https://astronomy.stackexchange.com/*
+// @grant        none
 // @downloadURL  https://rawgit.com/IStoleThePies/Test/test/main.user.js
 // @updateURL    https://rawgit.com/IStoleThePies/Test/test/main.user.js
 // ==/UserScript==
 
 (function() {
+	console.log("dog");
     $('body').css({"background": "url(https://i.imgur.com/teddPuM.png)"});
     $('.container').css("box-shadow", "#EBF2F5 0 0px 0 inset");
     $('.envelope-on, .envelope-off, .vote-up-off, .vote-up-on, .vote-down-off, .vote-down-on, .star-on, .star-off, .comment-up-off, .comment-up-on, .comment-flag, .comment-flag-off, .comment-flag-on, .edited-yes, .feed-icon, .vote-accepted-off, .vote-accepted-on, .vote-accepted-bounty, .badge-earned-check, .delete-tag, .grippie, .expander-arrow-hide, .expander-arrow-show, .expander-arrow-small-hide, .expander-arrow-small-show, .anonymous-gravatar, .badge1, .badge2, .badge3').css("background-image", "url('https://cdn.rawgit.com/IStoleThePies/0c56554efd73dab75025e2019b330c57/raw/3e5d103dcaca42017aacea500121edfccb850578/Astronomy.svg'),none");
