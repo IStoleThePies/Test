@@ -2,8 +2,11 @@
 // @name         Astronomy SE design
 // @version      0.1
 // @author       Sir Cumference
+// @namespace    https://github.com/IStoleThePies/Test
 // @match        https://astronomy.stackexchange.com/*
 // @grant        none
+// @downloadURL  https://rawgit.com/IStoleThePies/Test/test/main.user.js
+// @updateURL    https://rawgit.com/IStoleThePies/Test/test/main.user.js
 // ==/UserScript==
 
 (function() {
