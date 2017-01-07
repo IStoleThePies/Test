@@ -4,6 +4,7 @@
 // @description  try to take over the world!
 // @author       Sir Cumference
 // @match        https://astronomy.stackexchange.com/*
+// @updateURL    https://github.com/IStoleThePies/Test/blob/test/main.user.js
 // ==/UserScript==
 
 (function() {
