@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         Astronomy SE design
-// @version      0.3
+// @version      0.1
 // @author       Sir Cumference
 // @match        https://astronomy.stackexchange.com/*
+// @grant        none
 // ==/UserScript==
 
 (function() {
